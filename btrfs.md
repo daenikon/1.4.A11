@@ -67,12 +67,15 @@ Main points for it are:
 * Based on that if the snapshot of a certain subvolume is taken, it will not include nested subvolumes in it. People recommend to create separate subvolumes for `/var/log`, `/var/cache` and `/home` directories
 
 ## Wikis
-As far as I've found out - OpenSUSE and Fedora use btrfs as their default filesystem, but their docs/wiki about it are either outdated and archived or non-existent, which is a bummer.
+As far as I've found out - OpenSUSE and Fedora use btrfs as their default filesystem, but their docs/wiki about it are either outdated and archived or just non-existent, which is a bummer.
 
 ### Arch Wiki
 * [link](https://wiki.archlinux.org/title/Btrfs)
-According to their [Known Issues](https://wiki.archlinux.org/title/Btrfs#Known_issues) section, `btrfs-check` tool is under heavy development and it is NOT advised to use it.
-
+* According to their [Known Issues](https://wiki.archlinux.org/title/Btrfs#Known_issues) section, `btrfs-check` tool is under heavy development and it is NOT advised to use it.
+* In the [Compression](https://wiki.archlinux.org/title/Btrfs#Compression) section is written that using `compress-force=alg[:level]` mount option over regular `compress=alg[:level]` shows a significant improvement of about 10% disk compression and slightly more CPU usage, which is a good trade-off.
+* [compsize](https://wiki.archlinux.org/title/Btrfs#View_compression_types_and_ratios) tool seems worth checking out
+* [Snapper](https://wiki.archlinux.org/title/Snapper#Suggested_filesystem_layout) has a suggested filesystem layout
+* In the Trouble
 
 # Usage
 ## Scrub
@@ -98,4 +101,21 @@ I guess that besides making a separate subvolume `/var/log` and `/var/cache`, it
 
 
 # Random
+do not use defragmentation:
+Should I defragment my btrfs root fs? I've enabled zstd compression mount options late in the installation and have around 7GiB uncompressed, I don't have any snapshots or reflinks created, but I have NVMe disk and heard that defragmentation may wear out the drive very fast
+
+Forza 23:17:24
+Guest84: not needed. they will get compressed as you upgrade the system and install new stuff. And if they don't it means those particular files arent used that much.
+unless you have a tiny disk and need that extra disk space.
+
+
 also i guess i would backup gentoo cache folder
+
+daily fstrim at 6am? you can even say "fstrim -m 1048576" to discard only above 1MB.
+which is very likely adequate anyway.
+F
+Forza 23:33:28
+daily or maybe weekly is enough for most lightly used systems
+
+
+disable discard=async and move to fstrim timer
