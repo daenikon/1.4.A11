@@ -1,3 +1,4 @@
+# Aufgabe
 ## Schreibübung: Ein Bewerbungsschreiben verfassen
 
 Verfassen Sie einen kurzen Text, in welchem Sie sich auf eine Stelle bewerben. Wählen Sie dafür entweder einen realen Anlass, also zum Beispiel eine Hilfskraft-Ausschreibung der Universität oder eine Praktikumsstelle. Das Anschreiben soll maximal eine Seite lang sein. Im Kurs bekommen Sie ein Feedback auf Ihren Text.
@@ -18,3 +19,6 @@ Falls Sie keinen eigenen Anlass haben, können Sie sich an diesem Beispiel orien
 
 ---
 Laden Sie den Text nach Fertigstellung bitte im Olat-Kurs des Workshops hoch, im Ordner „Upload-Ordner für Kursteilnehmer“ hoch. Halten Sie den Text nach der Mittagspause als Datei bereit, Sie werden darauf ein Feedback erhalten.
+
+# Notizen
+![Example from Goethe's Stellenportal](deutsch/workshops/assets/Studentishe_Hilfskraft_mwd_gesucht.jpg)
