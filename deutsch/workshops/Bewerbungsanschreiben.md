@@ -21,4 +21,6 @@ Falls Sie keinen eigenen Anlass haben, können Sie sich an diesem Beispiel orien
 Laden Sie den Text nach Fertigstellung bitte im Olat-Kurs des Workshops hoch, im Ordner „Upload-Ordner für Kursteilnehmer“ hoch. Halten Sie den Text nach der Mittagspause als Datei bereit, Sie werden darauf ein Feedback erhalten.
 
 # Notizen
-![Example from Goethe's Stellenportal](deutsch/workshops/assets/Studentishe_Hilfskraft_mwd_gesucht.jpg)
+## Echte Beispiel
+- [Das Stellenportal der Goethe-Uni](https://stellenportal-uni-frankfurt.de/start/)
+![Example from Goethe's Stellenportal](assets/Studentishe_Hilfskraft_mwd_gesucht.jpg)
