@@ -1,16 +1,22 @@
 # Modul 1
+<!-- Ich habe das Commit zu machen vergessen -->
+## ÜB 5
+<details>
+    <summary>Lösung</summary>
+    <img src="./assets/modul1/u5-los.png"></img>
+</details>
+<img src="./assets/modul1/u5.png"></img>
 
-`~~123~~`
-## ÜB 1
-1. *In diesem Jahr hat Marie keinen richtigen Urlaub gemacht.* | **Perfekt**
-2. *Sie konnte noch keinen Urlaub nehmen.* | **Modalverb**
-3. ~~Denn sie gerade erst in der Firma angefangen hatte.~~ *Denn sie hatte gerade erst in der Firma angefangen. | **Plusquamperfekt**
-5. *Am liebsten würde sie nächstes Jahr eine Wanderung in den Alpen machen.* | **Konjunktiv**
-6. *Sie geht gerne in den Bergen wandern und klettern.* | **Verb + Verb**
-7. *Leider macht ihr Freund bei solchen Urlauben nicht mit* | **trennbare Verb**
-8. *Wie könnte sie ihren Freund überzeugen?* | **W-Frage**
-9. *Er findet ihre Urlaubsideen zu anstrengend.* | **Aussagesatz*
-10. *Im Kino wird gerade ein Film über die Alpen gezeigt* | **Passiv**
-11. *Er hat versprochen: Er wird den Film anschauen* | **Perfekt : Futur**
+1. Die modernen Industristaaten sind seit Jahren flächendeckend mit Hochleistungsnetzen versorgt.
+2. Fast alle möchten ihre Handys unterwegs überall nutzen können.
+3. In den dafür notigen elektromagnetischen Feldern sehen einige Leute eine Gefahr für die Gesundheit.
+4. Sie nehmen an, dass die Dauerbestrahlung in der Nähe von Mobilfunkmasten zu Bluthochdruck und Krebs führt.
 
-## ÜB 2
+## ÜB 6
+<details>
+    <summary>Lösung</summary>
+    <img src="./assets/modul1/u6-los.png"></img>
+</details>
+<img src="./assets/modul1/u6.png"></img>
+
+1. 
