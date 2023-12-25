@@ -1,4 +1,4 @@
 ## TODO
-- Configure git
-  - configure ssh
-  - configure github
+- ~~Configure git~~
+  - ~~configure ssh~~
+  - ~~configure github~~
