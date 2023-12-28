@@ -1,4 +1,15 @@
 ## TODO
-- ~~Configure git~~
-  - ~~configure ssh~~
-  - ~~configure github~~
+- tmux
+- minecraft
+- alacritty
+- ~~metalog~~
+- ~~vim~~
+- ~~doas~~
+- ~~fcron~~
+- ~~fonts~~
+    - ~~emojis~~
+    - ~~symbols (japanese, korean...)~~
+- ~~logrotate~~
+- ~~git~~
+  - ~~ssh~~
+  - ~~github~~
