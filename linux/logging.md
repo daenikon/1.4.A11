@@ -1,5 +1,8 @@
 # Syslog daemon
-- metalog
+- [metalog](https://wiki.gentoo.org/wiki/Metalog)
+
+## Facility/Severity
+- [RFC5424](https://datatracker.ietf.org/doc/html/rfc5424#section-6.2.1)
 
 # Config
 - `/etc/conf.d/metalog` - Gentoo's config file for /etc/init.d/metalog daemon.
@@ -10,10 +13,11 @@ Added an entry to `/etc/metalog.conf` to catch all `local7`-facility in
 log info/errors to `local7` facility via `logger` command like: 
 - `logger -t "emerge-sync" -p local7.info "[INFO] emerge --sync successful"`
 
-
 ## Scripts
 - `/usr/local/bin/emerge_sync.sh`
 
 ## Cron daemon
 - I use fcron, since it works with not constantly-running machines.
 - Disabled `system-crontab` flag, therefore `/etc/cron/*` works, but not `/etc/crontab` and `/etc/cron.d
+
+- [Crontab Guru](https://crontab.guru)
