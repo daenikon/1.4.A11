@@ -1,7 +1,11 @@
 ## TODO
+- file manager
+    - nnn (n^3)
 - tmux
 - minecraft
-- alacritty
+- ~~alacritty~~
+    - ~~nerdfont~~
+    - ~~theme (tokyo-night)~~
 - ~~metalog~~
 - ~~vim~~
 - ~~doas~~
