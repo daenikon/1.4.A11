@@ -1,8 +1,16 @@
 ## TODO
+- tmux
+- games
+    - minecraft
+    - steam
+        - stardew valley
+- dwm
+    - background image
+    - bar
 - file manager
     - nnn (n^3)
-- tmux
-- minecraft
+        - fix nerdfont icons
+        - fix file preview
 - ~~alacritty~~
     - ~~nerdfont~~
     - ~~theme (tokyo-night)~~
