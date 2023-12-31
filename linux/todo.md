@@ -9,10 +9,11 @@
     - ~~background image~~
     - ~~modkey~~
     - bar
-- file manager
-    - nnn (n^3)
-        - fix nerdfont icons
-        - fix file preview
+- ~~file manager~~
+    -- ~~fzf~~
+    - ~~nnn (n^3)~~ **fzf instead**
+        - ~~fix nerdfont icons~~
+        - ~~fix file preview~~ **couldn't fix**
 - ~~alacritty~~
     - ~~nerdfont~~
     - ~~theme (tokyo-night)~~
