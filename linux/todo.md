@@ -4,8 +4,10 @@
     - minecraft
     - steam
         - stardew valley
+- ~~wacom driver~~                
 - dwm
-    - background image
+    - ~~background image~~
+    - ~~modkey~~
     - bar
 - file manager
     - nnn (n^3)
