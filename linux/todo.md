@@ -1,5 +1,6 @@
 ## TODO
 - check out `at`
+- neovim
 - tmux
 - games
     - minecraft
