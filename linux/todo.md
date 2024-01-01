@@ -9,6 +9,8 @@
     - ~~background image~~
     - ~~modkey~~
     - bar
+- ~~etckeeper~~
+    - ~~origin~~
 - ~~file manager~~
     -- ~~fzf~~
     - ~~nnn (n^3)~~ **fzf instead**
