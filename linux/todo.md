@@ -1,6 +1,7 @@
 ## TODO
-- check out `at`
+- learn lua
 - neovim
+- check out `at`
 - tmux
 - games
     - minecraft
