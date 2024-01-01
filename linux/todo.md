@@ -4,11 +4,12 @@
     - minecraft
     - steam
         - stardew valley
-- ~~wacom driver~~                
 - dwm
     - ~~background image~~
     - ~~modkey~~
     - bar
+- ?zsh
+- ~~wacom driver~~                
 - ~~etckeeper~~
     - ~~origin~~
 - ~~file manager~~
