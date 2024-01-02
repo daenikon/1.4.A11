@@ -1,6 +1,5 @@
-## TODO
+# TODO
 - learn lua
-- neovim
 - check out `at`
 - tmux
 - games
@@ -34,3 +33,9 @@
 - ~~git~~
   - ~~ssh~~
   - ~~github~~
+
+## neovim
+- Figure out native plugins:
+    - `editorconfig`
+    - `man.lua`
+    - `matchit`
