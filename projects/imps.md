@@ -19,7 +19,7 @@ Therefore [manual build](http://openresty.org/en/download.html) is needed.
 5. `doas make install`
 
 ### .bashrc
-- `export PATH=/usr/local/openresty/bin:$PATH`
+- `export PATH=/usr/local/openresty/bin:/usr/local/openresty/nginx/sbin:$PATH`
 to use `resty` and other
 
 ### Location
