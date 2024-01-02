@@ -18,6 +18,10 @@ Therefore [manual build](http://openresty.org/en/download.html) is needed.
 4. `make -j[val]`
 5. `doas make install`
 
+### .bashrc
+- `export PATH=/usr/local/openresty/bin:$PATH`
+to use `resty` and other
+
 ### Location
 - `/usr/local/openresty/`
 
