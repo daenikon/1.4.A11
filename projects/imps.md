@@ -14,9 +14,13 @@ Therefore [manual build](http://openresty.org/en/download.html) is needed.
 ### Build
 1. [Download](http://openresty.org/en/download.html)
 2. `tar -xvf openresty-VERSION.tar.gz`
-3. `./configure --with-pcre-jit --with-ipv6` (for modern enough enviroment)
+3. `./configure --with-pcre-jit --with-ipv6` (for modern enough enviroment, luajit is now default)
 4. `make -j[val]`
 5. `doas make install`
 
 ### Location
 - `/usr/local/openresty/`
+
+
+## Magick
+- `luarocks install magick`
