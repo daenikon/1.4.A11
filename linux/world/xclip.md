@@ -1,0 +1,2 @@
+# Xclip
+- `man xclip`
