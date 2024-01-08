@@ -9,4 +9,5 @@
 # ls
 1. `ls -A` to print everything except annoying "." and ".."
 2. `ls -F` to identify some files/directories. (* -> executable; @ -> symbolic link...)
+3. `ls -S` sort by file size
 3. `ls` can display contents of multiple directories
