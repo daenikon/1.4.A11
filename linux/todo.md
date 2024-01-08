@@ -1,4 +1,6 @@
 # TODO
+- read up on bash
+- tweak GRUB
 - learn lua
 - check out `at`
 - tmux
