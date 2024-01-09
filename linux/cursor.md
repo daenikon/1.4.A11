@@ -1,5 +1,6 @@
 # References
 - [Cursor Themes](https://wiki.gentoo.org/wiki/Cursor_themes)
+- [Bibata Theme](https://github.com/ful1e5/Bibata_Cursor)
 
 # Configuration
 I've chosen `x11-themes/bibata-xcursors`, since they look modern enough.
