@@ -18,6 +18,6 @@ log info/errors to `local7` facility via `logger` command like:
 
 ## Cron daemon
 - I use fcron, since it works with not constantly-running machines.
-- Disabled `system-crontab` flag, therefore `/etc/cron/*` works, but not `/etc/crontab` and `/etc/cron.d
+- Disabled `system-crontab` flag, therefore `/etc/cron/*` works, but not `/etc/crontab` and `/etc/cron.d`
 
 - [Crontab Guru](https://crontab.guru)

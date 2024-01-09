@@ -1,4 +1,5 @@
 # TODO
+- conky
 - read up on bash
 - tweak GRUB
 - learn lua
