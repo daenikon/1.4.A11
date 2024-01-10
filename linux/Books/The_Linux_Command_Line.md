@@ -2,6 +2,7 @@
 1. **Wildcards, char classes** --> p.50 (Ch 4)
 2. **Hard links vs symbolic links** --> Ch 4
 3. `info coreutils` **!!! IMPORTANT !!!**
+4. `/usr/share/doc` contains docs for lot of packages, those docs are usually compressed with .gz or .bz. There's `zless` and `bzless` pager for that.
 
 # Tips
 ## Ch. 4 p.57
