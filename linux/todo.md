@@ -1,4 +1,5 @@
 # TODO
+- picom
 - conky
 - read up on bash
 - tweak GRUB
