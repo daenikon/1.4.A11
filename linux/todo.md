@@ -1,4 +1,5 @@
 # TODO
+- IRC client (irssi)
 - picom
 - conky
 - read up on bash
