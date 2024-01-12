@@ -47,3 +47,13 @@ A lot of people will try the following when they are learning about pipelines, â
 to see what happensâ€:
 `command1 > command2`
 Answer: sometimes something really bad.
+
+## Ch. 8 p.105-106
+Key         Action
+`Ctrl-a`    Move cursor to the beginning of the line.
+`Ctrl-e`    Move cursor to the end of the line.
+`Ctrl-f`    Move cursor forward one character; same as the right arrow key.
+`Ctrl-b`    Move cursor backward one character; same as the left arrow key.
+`Alt-f`     Move cursor forward one word.
+`Alt-b`     Move cursor backward one word.
+`Ctrl-l`    Clear the screen and move the cursor to the top-left corner. The clear command does the same thing.
