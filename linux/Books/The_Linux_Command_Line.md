@@ -7,6 +7,8 @@
 6. `dev/null` is referred to as a "bit bucket"
 7. `tail -f /var/log/messages` to view log file in real time 
 8. `tee` command
+9.  Double quotes suppress everything "$", "\" and "`" 
+10. Single quotes suppres everything.
 
 
 ## File Descriptor
