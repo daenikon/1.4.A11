@@ -76,5 +76,5 @@ Answer: sometimes something really bad.
 |`Ctrl-k`  |     Kill text from the cursor location to the end of line.|
 |`Ctrl-u`  |     Kill text from the cursor location to the beginning of the line.|
 |`Alt-d`   |     Kill text from the cursor location to the end of the current word.|
-|`Alt-Backspace`|Kill text from the cursor location to the beginning of the current word. If the cursor is at the beginning of a word, kill the previous word.|
+|`Alt-Backspace`| Kill text from the cursor location to the beginning of the current word. If the cursor is at the beginning of a word, kill the previous word.|
 |`Ctrl-y`  |     Yank text from the kill-ring and insert it at the cursor location.|
