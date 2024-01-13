@@ -7,9 +7,8 @@
 6. `dev/null` is referred to as a "bit bucket"
 7. `tail -f /var/log/messages` to view log file in real time 
 8. `tee` command
-9.  Double quotes suppress everything "$", "\" and "`" 
-10. Single quotes suppres everything.
-
+9.  Double quotes suppress everything except "$", "\" and "`" 
+10. Single quotes suppress everything.
 
 ## File Descriptor
 There's **stdin**, **stdout** and **stderr**. To redirect standard error we must refer to its
@@ -49,7 +48,9 @@ to see what happens”:
 Answer: sometimes something really bad.
 
 ## Ch. 8
-### Cursor Movement
+
+### Key Bindings
+#### Cursor Movement
 | Key      | Action                                                                                               |
 |----------|------------------------------------------------------------------------------------------------------|
 |`Ctrl-a`  | Move cursor to the beginning of the line.|
@@ -60,7 +61,7 @@ Answer: sometimes something really bad.
 |`Alt-b`   | Move cursor backward one word.|
 |`Ctrl-l`  | Clear the screen and move the cursor to the top-left corner. The clear command does the same thing.|
 
-### Modifying Text
+#### Modifying Text
 | Key      | Action                                                                                               |
 |----------|------------------------------------------------------------------------------------------------------|
 |`Ctrl-d`  | Delete the character at the cursor location.|
@@ -69,8 +70,9 @@ Answer: sometimes something really bad.
 |`Alt-l`   | Convert the characters from the cursor location to the end of the word to lowercase.|
 |`Alt-u`   | Convert the characters from the cursor location to the end of the word to uppercase.|
 
-### Killing and Yanking text
+#### Killing and Yanking text
 * buffer is call **kill-ring**
+
 | Key      | Action                                                                                               |
 |----------|------------------------------------------------------------------------------------------------------|
 |`Ctrl-k`  |     Kill text from the cursor location to the end of line.|
@@ -78,3 +80,7 @@ Answer: sometimes something really bad.
 |`Alt-d`   |     Kill text from the cursor location to the end of the current word.|
 |`Alt-Backspace`| Kill text from the cursor location to the beginning of the current word. If the cursor is at the beginning of a word, kill the previous word.|
 |`Ctrl-y`  |     Yank text from the kill-ring and insert it at the cursor location.|
+
+### History Expansion
+- `history`
+- `![number]` expands line [number] contents.
