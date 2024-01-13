@@ -95,5 +95,5 @@ Answer: sometimes something really bad.
 |`Ctrl-r`   | Reverse incremental search. This searches incrementally from the current command line up the history list.|
 |`Alt-p`    | Reverse search, nonincremental. With this key, type in the search string and press enter before the search is performed. |
 |`Alt-n`    | Forward search, nonincremental. |
-|`Ctrl-o`   | Execute the current item in the history list and advance to the next Move to the previous history entry. This is the same action as the up arrow. |
+|`Ctrl-o`   | Execute the current item in the history list and advance to the next one. This is handy if we are trying to re-execute a sequence of commands in the history list. |
 
