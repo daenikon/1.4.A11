@@ -84,3 +84,16 @@ Answer: sometimes something really bad.
 ### History Expansion
 - `history`
 - `![number]` expands line [number] contents.
+- `Ctrl+r` starts incremental history search (further improved with fzf)
+
+| Key      | Action                                                                                               |
+|----------|------------------------------------------------------------------------------------------------------|
+|`Ctrl-p`   | Move to the previous history entry. This is the same action as the up arrow.|
+|`Ctrl-n`   | Move to the next history entry. This is the same action as the down arrow. |
+|`Alt-<`    | Move to the beginning (top) of the history list.|
+|`Alt->`    | Move to the end (bottom) of the history list, i.e., the current command line. |
+|`Ctrl-r`   | Reverse incremental search. This searches incrementally from the current command line up the history list.|
+|`Alt-p`    | Reverse search, nonincremental. With this key, type in the search string and press enter before the search is performed. |
+|`Alt-n`    | Forward search, nonincremental. |
+|`Ctrl-o`   | Execute the current item in the history list and advance to the next Move to the previous history entry. This is the same action as the up arrow. |
+
