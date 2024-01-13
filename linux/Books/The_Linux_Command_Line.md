@@ -48,7 +48,8 @@ to see what happens”:
 `command1 > command2`
 Answer: sometimes something really bad.
 
-## Ch. 8 p.105-106
+## Ch. 8
+### Cursor Movement
 Key         Action
 `Ctrl-a`    Move cursor to the beginning of the line.
 `Ctrl-e`    Move cursor to the end of the line.
@@ -57,3 +58,10 @@ Key         Action
 `Alt-f`     Move cursor forward one word.
 `Alt-b`     Move cursor backward one word.
 `Ctrl-l`    Clear the screen and move the cursor to the top-left corner. The clear command does the same thing.
+
+### Modifying Text
+`Ctrl-d`    Delete the character at the cursor location.
+`Ctrl-t`    Transpose (exchange) the character at the cursor location with the one preceding it.
+`Alt-t`     Transpose the word at the cursor location with the one preceding it.
+`Alt-l`     Convert the characters from the cursor location to the end of the word to lowercase.
+`Alt-u`     Convert the characters from the cursor location to the end of the word to uppercase.
