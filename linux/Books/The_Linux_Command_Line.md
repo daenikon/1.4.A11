@@ -85,7 +85,7 @@ Answer: sometimes something really bad.
 - `history`
 - `![number]` expands line [number] contents.
 - `Ctrl+r` starts incremental history search (further improved with fzf)
-
+#### History Commands
 | Key      | Action                                                                                               |
 |----------|------------------------------------------------------------------------------------------------------|
 |`Ctrl-p`   | Move to the previous history entry. This is the same action as the up arrow.|
@@ -97,3 +97,10 @@ Answer: sometimes something really bad.
 |`Alt-n`    | Forward search, nonincremental. |
 |`Ctrl-o`   | Execute the current item in the history list and advance to the next one. This is handy if we are trying to re-execute a sequence of commands in the history list. |
 
+#### History Expansion Commands
+| Sequence  | Action |
+|-----------|--------|
+|`!!`       | Repeat the last command. It is probably easier to press up arrow and enter.|
+|`!number`  | Repeat history list item number.|
+|`!string`  | Repeat last history list item starting with string.|
+|`!?string` | Repeat last history list item containing string.|
