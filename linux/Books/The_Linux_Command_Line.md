@@ -61,16 +61,20 @@ Answer: sometimes something really bad.
 |`Ctrl-l`  | Clear the screen and move the cursor to the top-left corner. The clear command does the same thing.|
 
 ### Modifying Text
-`Ctrl-d`    Delete the character at the cursor location.
-`Ctrl-t`    Transpose (exchange) the character at the cursor location with the one preceding it.
-`Alt-t`     Transpose the word at the cursor location with the one preceding it.
-`Alt-l`     Convert the characters from the cursor location to the end of the word to lowercase.
-`Alt-u`     Convert the characters from the cursor location to the end of the word to uppercase.
+| Key      | Action                                                                                               |
+|----------|------------------------------------------------------------------------------------------------------|
+|`Ctrl-d`  | Delete the character at the cursor location.|
+|`Ctrl-t`  | Transpose (exchange) the character at the cursor location with the one preceding it.|
+|`Alt-t`   | Transpose the word at the cursor location with the one preceding it.|
+|`Alt-l`   | Convert the characters from the cursor location to the end of the word to lowercase.|
+|`Alt-u`   | Convert the characters from the cursor location to the end of the word to uppercase.|
 
 ### Killing and Yanking text
 * buffer is call **kill-ring**
-`Ctrl-k`        Kill text from the cursor location to the end of line.
-`Ctrl-u`        Kill text from the cursor location to the beginning of the line.
-`Alt-d`         Kill text from the cursor location to the end of the current word.
-`Alt-Backspace` Kill text from the cursor location to the beginning of the current word. If the cursor is at the beginning of a word, kill the previous word.
-`Ctrl-y`        Yank text from the kill-ring and insert it at the cursor location.
+| Key      | Action                                                                                               |
+|----------|------------------------------------------------------------------------------------------------------|
+|`Ctrl-k`  |     Kill text from the cursor location to the end of line.|
+|`Ctrl-u`  |     Kill text from the cursor location to the beginning of the line.|
+|`Alt-d`   |     Kill text from the cursor location to the end of the current word.|
+|`Alt-Backspace`|Kill text from the cursor location to the beginning of the current word. If the cursor is at the beginning of a word, kill the previous word.|
+|`Ctrl-y`  |     Yank text from the kill-ring and insert it at the cursor location.|
