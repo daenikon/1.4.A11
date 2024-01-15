@@ -9,6 +9,15 @@
 8. `tee` command
 9.  Double quotes suppress everything except "$", "\" and "`" 
 10. Single quotes suppress everything.
+11. Load average refers to the number of processes
+    that are waiting to run, that is, the number of
+    processes that are in a runnable state and are
+    sharing the CPU. Three values are shown, each
+    for a different period of time. The first is the
+    average for the last 60 seconds, the next the
+    previous 5 minutes, and finally the previous 15
+    minutes. Values less than 1.0 indicate that the
+    machine is not busy.
 
 ## File Descriptor
 There's **stdin**, **stdout** and **stderr**. To redirect standard error we must refer to its
