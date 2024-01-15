@@ -113,3 +113,18 @@ Answer: sometimes something really bad.
 |`!number`  | Repeat history list item number.|
 |`!string`  | Repeat last history list item starting with string.|
 |`!?string` | Repeat last history list item containing string.|
+
+## Ch 10
+1. `Ctrl-C` interrupts the program, which means it politely asks it to terminate. Not all programms can be interrupted with this technique.
+
+
+### Background and Foreground
+Programs can be in the **foreground** and in the **background**. \
+- `[[command]] &` launches a programm in background. (It returns job number and PID)
+- `ps` shows what process are launched from this particular terminal.
+- `jobs` shows jobs (aka processes) that were either put in a background or suspended.
+- `fg %1` - return process "1" to the foreground. If there's only one jobs, then the argument is optional.
+- Job number is called **jobspec**
+
+#### Pausing the process
+
