@@ -114,24 +114,25 @@ Answer: sometimes something really bad.
 |`!string`  | Repeat last history list item starting with string.|
 |`!?string` | Repeat last history list item containing string.|
 
-## Ch 10
-* Programs can be in the **foreground** and in the **background**. \
+# Chapter 10: Processes
 
-### General
+## Key Concepts
+* Programs can be in **foreground** or **background**
+* Each process is assigned a *process ID* (PID)
 * Job number is called **jobspec**
-* `Ctrl-C` interrupts the program, which means it politely asks it to terminate. Not all programms can be interrupted with this technique.
-* `ps` vs `jobs`
-    - `ps` shows what processes are launched from this particular terminal session.
-    > `man(1)` output: reports a snapshot of current processes.
-    - `jobs` shows jobs/processes that were either put in a background or suspended.
-    > `--help` flag output: displays status of jobs.
 
-### BACKGROUND
+## Important Commands
+* `ps` reports a snapshot of current processes.
+* `jobs` display status of jobs.
+* `Ctrl-C` doesn't kill the fg-Program, but rather politely asks it to terminate. Not all programs can be interrupted with this technique.
+
+## BACKGROUND
 1. `[[command]] &` launches a programm and puts in the background. It also returns job number (**jobspec**) and PID of the programm.
 
-### FOREGROUND
+## FOREGROUND
 * `[[command]]` launches programm by default in foreground.
 * `fg %1` --> return process with jobspec 1 to the foreground. If there's just 1 job the argument is optional.
 
-#### Pausing the process
+## Stopping (pausing) the process
+Stopping a process without terminating it is often done to allow a *fg* process to be moved to the *bg*.
 
