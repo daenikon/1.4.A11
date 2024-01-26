@@ -135,4 +135,3 @@ Answer: sometimes something really bad.
 
 ## Stopping (pausing) the process
 Stopping a process without terminating it is often done to allow a *fg* process to be moved to the *bg*.
-
