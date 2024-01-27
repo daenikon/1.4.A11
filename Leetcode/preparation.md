@@ -1,5 +1,6 @@
 # Reference
 - [NeetCode video](https://www.youtube.com/watch?v=8wysIxzqgPI)
+- [NeetCode video 2](https://www.youtube.com/watch?v=UrcwDOEBzZE)
 
 # Basics
 1. Arrays
@@ -8,6 +9,24 @@
 4. Trees
 5. Sorting
 6. Binary search
+
+## Arrays
+Learn by heart
+
+1. Binary Search, Sorting (easy)
+2. Two Pointers
+3. Sliding Window
+4. Prefix Sums
+
+## Decision Trees
+are necessary
+
+## Graphs
+- DFS
+- BFS
+
+## HashMap
+## Heaps
 
 # Other Tips
 1. Use Python (concise, easy to understand and write)
