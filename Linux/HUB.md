@@ -9,4 +9,8 @@
 * [cursor](cursor.md)
 * [fzf](fzf.md)
 
-##
+## Gentoo System
+* [Binary Host](binary-host.md)
+
+## Misc
+* [Comparison of Source Mirrors](source_mirror_comparison.md)
