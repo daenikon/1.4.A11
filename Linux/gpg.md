@@ -18,4 +18,5 @@ to get public key do `gpg --list-keys` and it's also located at `~/mypublickey.g
 3. `gpg --homedir=/etc/portage/gnupg --import publickey.gpg`
 4. `gpg --homedir=/etc/portage/gnupg --edit-key 30154A974C865C248A91209C7DAC306FB539ECB6`
     - trusted and signed the key with password from `/etc/portage/gnupg/pass`
-5. `gpg --homedir=/etc/portage/gnupg --check-trustdb`
+5. `trust` --> `4`
+6. `gpg --homedir=/etc/portage/gnupg --check-trustdb`

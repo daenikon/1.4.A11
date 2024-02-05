@@ -15,6 +15,8 @@
 * [Binary Host](binary-host.md)
 * [GPG Keys](gpg.md)
 
+* [Cheatsheet](https://wiki.gentoo.org/wiki/Gentoo_Cheat_Sheet)
+
 
 ## Misc
 * [Comparison of Source Mirrors](source_mirror_comparison.md)
