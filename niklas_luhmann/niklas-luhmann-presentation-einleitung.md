@@ -1,0 +1,2 @@
+- Niklas Luhmann war ein deutscher Soziologe
+- 
