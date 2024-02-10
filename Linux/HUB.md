@@ -8,6 +8,10 @@
 * [fcron](fcron.md)
 * [cursor](cursor.md)
 * [fzf](fzf.md)
+* [fonts](fonts.md)
+* [useful](useful.md)
+* [utils](utils.md)
+* [gtk](gtk.md)
 
 ## Gentoo System
 * [TODO](gentoo-TODO.md)
