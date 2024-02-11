@@ -7,3 +7,5 @@
 * [Lua](Lua/HUB.md)
 * [Neovim](Neovim/HUB.md)
 * [Deutsch](Deutsch/hub.md)
+
+* [Fleeting](fleeting/hub.md)

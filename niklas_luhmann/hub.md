@@ -2,11 +2,12 @@
 * [Einleitung](niklas-luhmann-presentation-einleitung.md)
 
 * [Presentation](presentation.md)
+
 ## Fleeting notes
-zk-1a
 * [Verschiedene Zettelkaesten](zk-1a.md)
 * [wiki](wiki.md)
 * [Radical Luhmann](radical_luhmann.md)
+* [Video - ZK kurz erklärt](zk_kurz_erkl.md)
 
 ## Tips
 Creating a 15-minute talk on Niklas Luhmann and his Zettelkasten method can be both enlightening and engaging, given the depth of the topic and its relevance to knowledge management, research, and creative work. Here's a structured approach to crafting your talk, along with key ideas and elements to include:
