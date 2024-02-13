@@ -8,4 +8,6 @@
 * [Neovim](Neovim/HUB.md)
 * [Deutsch](Deutsch/hub.md)
 
-* [Fleeting](fleeting/hub.md)
+* [Fleeting Notes](Fleeting/Hub.md)
+* [Literature Notes](Literature/Hub.md)
+* [Permanent Notes](Permanent/Hub.md)
