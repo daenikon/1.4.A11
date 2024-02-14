@@ -11,3 +11,4 @@
 * [Fleeting Notes](Fleeting/Hub.md)
 * [Literature Notes](Literature/Hub.md)
 * [Permanent Notes](Permanent/Hub.md)
+* [Log Notes](Log/Hub.md)
