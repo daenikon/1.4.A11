@@ -1,4 +1,5 @@
 # Log notes
+* [Leetcode Daily](2.md)
 
-## Gentoo
 * [Fonts](1.md)
+
