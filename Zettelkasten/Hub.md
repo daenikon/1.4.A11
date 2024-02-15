@@ -1,5 +1,5 @@
 # Zettelkasten Hub
-My place to actually store ideas.
+My place to store my refined ideas.
 
 # Fleet Notes
 1. [1](1.md) | Portfolio Project Idea
