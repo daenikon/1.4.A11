@@ -3,6 +3,8 @@ Temporary notes to capture ideas "on-the-fly"
 '-' --> to review
 '*' --> reviewed
 
+- [7 | Manufacturing analogy](7.md)
+    - [7a | Storytelling analogy](7a.md)
 - [6 | Leetcode Preparation](6.md)
 - [5 | Zettelkasten](5.md)
     - [5a | Fleeting Notes](5a.md)
