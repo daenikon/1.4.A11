@@ -12,6 +12,7 @@ Temporary notes to capture ideas "on-the-fly"
     - [5a2 | Permanent Notes](5a2.md)
     - [5a3 | Rules](5a3.md)
     - [5a4 | Recommendations](5a4.md)
+    - [5a5 | Naming Conventions](5a5.md)
 - [4 | tags for marknav.nvim](4.md)
 - [3 | Nvim Clipboard](3.md)
 - [2 | Project Idea - Pokedex](2.md)
