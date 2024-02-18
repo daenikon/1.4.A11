@@ -10,6 +10,5 @@
 * [Log Notes](Log/Hub.md)
 
 
-
 * [Linux](Linux/HUB.md)
 

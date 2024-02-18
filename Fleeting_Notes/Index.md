@@ -3,6 +3,7 @@ Temporary notes to capture ideas "on-the-fly"
 '-' --> to review
 '*' --> reviewed
 
+- [sharkdp fd](10.md)
 - [Steve Jobs' Bicycle analogy](9.md)
 - [Sioyek vs Zathura](8.md)
 - [Manufacturing analogy](7.md)
