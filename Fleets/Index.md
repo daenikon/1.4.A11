@@ -3,6 +3,7 @@ Temporary notes to capture ideas "on-the-fly"
 '-' --> to review
 '*' --> reviewed
 
+- [System Quote](11.md)
 - [sharkdp fd](10.md)
     - [telescope.nvim](10a.md)
         - [telescope-fzf-native.nvim](10a1.md)
@@ -12,6 +13,7 @@ Temporary notes to capture ideas "on-the-fly"
     - [Storytelling analogy](7a.md)
 - [Leetcode Preparation](6.md)
 - [ Zettelkasten](5.md)
+    - [Templates](5j.md)
     - [Folgezettel](5h.md)
     - [Niklas Luhmann](5g.md)
     - [Naming Conventions](5f.md)
