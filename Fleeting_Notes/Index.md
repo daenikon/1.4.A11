@@ -3,6 +3,7 @@ Temporary notes to capture ideas "on-the-fly"
 '-' --> to review
 '*' --> reviewed
 
+- [8 | Sioyek vs Zathura](8.md)
 - [7 | Manufacturing analogy](7.md)
     - [7a | Storytelling analogy](7a.md)
 - [6 | Leetcode Preparation](6.md)
