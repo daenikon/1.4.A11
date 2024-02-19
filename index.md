@@ -1,5 +1,5 @@
 # Hubs
-* [Input](Fleets/Index.md)
+* [Fleets](Fleets/Index.md)
 * [Zettelkasten](Zettelkasten/Hub.md)
 * [Literature Notes](Literature_Notes/Index.md)
 * [Someday/Maybe](Someday/Hub.md)

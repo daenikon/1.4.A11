@@ -3,6 +3,8 @@ Temporary notes to capture ideas "on-the-fly"
 '-' --> to review
 '*' --> reviewed
 
+- [German common words](12.md)
+    - [Good phrases 2 know](12a.md)
 - [System Quote](11.md)
 - [sharkdp fd](10.md)
     - [telescope.nvim](10a.md)
