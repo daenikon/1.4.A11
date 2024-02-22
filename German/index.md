@@ -5,3 +5,5 @@
     - [zweiteilige Konnektoren](12b.md)
     - [Genetiv Präpositionen](12c.md)
     - [Verben mit Präpositionen](12d.md)
+    - [Trennbare Verben](12e.md)
+    - [Konnektoren](12f.md)
