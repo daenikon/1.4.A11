@@ -1,8 +1,8 @@
 # Hubs
-* [Fleets](Fleets/Index.md)
-* [Zettelkasten](Zettelkasten/Hub.md)
-* [Literature Notes](Literature_Notes/Index.md)
-* [Someday/Maybe](Someday/Hub.md)
+* [Fleets](Fleets/index.md)
+* [Zettelkasten](Zettelkasten/index.md)
+* [Literature Notes](Literature_Notes/index.md)
+* [Someday/Maybe](Someday/index.md)
 
 * [German](German/index.md)
 
