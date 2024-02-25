@@ -6,6 +6,6 @@
 
 * [German](German/index.md)
 
-* [Log Notes](Log/Hub.md)
-* [Linux](Linux/HUB.md)
+* [Log Notes](Log/index.md)
+* [Linux](Linux/index.md)
 
