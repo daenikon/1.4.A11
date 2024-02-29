@@ -1,7 +1,8 @@
 # Fleeting Notes
 Temporary notes to capture ideas "on-the-fly"
-'-' --> to review
-'*' --> reviewed
+>'-' --> to review
+>
+>'*' --> reviewed
 
 - [System Quote](11.md)
 - [sharkdp fd](10.md)
