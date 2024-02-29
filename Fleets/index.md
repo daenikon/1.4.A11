@@ -4,6 +4,7 @@ Temporary notes to capture ideas "on-the-fly"
 >
 >'*' --> reviewed
 
+- [Gentoo Installation](12.md)
 - [System Quote](11.md)
 - [sharkdp fd](10.md)
     - [telescope.nvim](10a.md)
