@@ -4,6 +4,7 @@ Temporary notes to capture ideas "on-the-fly"
 >
 >'*' --> reviewed
 
+- [Stoicism](13.md)
 - [Gentoo Installation](12.md)
 - [System Quote](11.md)
 - [sharkdp fd](10.md)
