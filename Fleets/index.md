@@ -4,6 +4,7 @@ Temporary notes to capture ideas "on-the-fly"
 >
 >'*' --> reviewed
 
+- [Ship of Theseus](14.md)
 - [Stoicism](13.md)
 - [Gentoo Installation](12.md)
 - [System Quote](11.md)
