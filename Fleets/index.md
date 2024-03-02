@@ -17,7 +17,7 @@ Temporary notes to capture ideas "on-the-fly"
 - [Manufacturing analogy](7.md)
     - [Storytelling analogy](7a.md)
 - [Leetcode Preparation](6.md)
-- [ Zettelkasten](5.md)
+- [Zettelkasten](5.md)
     - [Templates](5j.md)
     - [Folgezettel](5h.md)
     - [Niklas Luhmann](5g.md)
