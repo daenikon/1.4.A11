@@ -6,6 +6,7 @@ Temporary notes to capture ideas "on-the-fly"
 
 - [Ship of Theseus](14.md)
 - [Stoicism](13.md)
+    - [List of works](13a.md)
 - [Gentoo Installation](12.md)
 - [System Quote](11.md)
 - [sharkdp fd](10.md)
