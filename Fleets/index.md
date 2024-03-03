@@ -8,6 +8,8 @@ Temporary notes to capture ideas "on-the-fly"
 - [Stoicism](13.md)
     - [List of works](13a.md)
 - [Gentoo Installation](12.md)
+    - [Disk Preparation](12a.md)
+    - [Important](12b.md)
 - [System Quote](11.md)
 - [sharkdp fd](10.md)
     - [telescope.nvim](10a.md)
