@@ -12,3 +12,4 @@
 - [Konnektoren](12f.md)
 - [Gerundiv](12g.md)
 - [Gefühle](12h.md)
+- [transitiv vs intransitiv](transitiv-vs-intransitiv.md)
