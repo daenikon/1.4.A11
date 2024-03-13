@@ -13,3 +13,4 @@
 - [Gerundiv](12g.md)
 - [Gefühle](12h.md)
 - [transitiv vs intransitiv](transitiv-vs-intransitiv.md)
+- [Passivfähigkeit von Verben](passivfaehigkeit-von-verben.md)
