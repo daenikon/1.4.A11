@@ -1,6 +1,6 @@
 # Hubs
-* [Input](Input/index.md)
 * [Zettelkasten](Zettelkasten/index.md)
+* [Input](Input/index.md)
 * [Literature Notes](Literature_Notes/index.md)
 * [Someday/Maybe](Someday/index.md)
 
