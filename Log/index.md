@@ -5,6 +5,7 @@
 
 * [Gentoo Installation](4.md)
     - [Disk Preparation](4a.md)
+        * [Partitioning](4a1.md)
     - [Important](4b.md)
 * [ripgrep](3.md)
 * [st bottom space fix](2.md)
